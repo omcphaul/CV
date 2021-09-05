@@ -1,0 +1,21 @@
+img.profilePic {
+    border-radius: 50%;
+  }
+h1 {
+    color: peru;
+}
+
+a.nav {
+   text-decoration: none;
+   color: whitesmoke;
+   background-color: rebeccapurple;
+   padding: 10px;
+}
+
+
+a.nav:hover {
+    text-decoration: none;
+    color: white;
+    background-color: peru;
+    padding: 10px;
+ }
